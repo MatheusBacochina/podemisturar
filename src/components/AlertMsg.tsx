@@ -3,7 +3,7 @@ import Styles from "../styles/mainStyles";
 export default function AlertMsg() {
   return (
     <View style={Styles.alertMsg}>
-      <Text style={Styles.textTop}>Pode wmisturar?</Text>
+      <Text style={Styles.textTop}>Pode wvmisturar?</Text>
     </View>
   );
 }
